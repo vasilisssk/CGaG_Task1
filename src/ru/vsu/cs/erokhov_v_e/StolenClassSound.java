@@ -1,4 +1,4 @@
-package ru.vsu.cs.erokhov_v_e.task_1;
+package ru.vsu.cs.erokhov_v_e;
 
 import java.io.File;
 import java.io.IOException;
